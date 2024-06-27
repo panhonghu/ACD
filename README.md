@@ -1,5 +1,5 @@
 # ACD
-Codes of paper "Unified Conditional Image Generation for Visible-Infrared Person Re-Identification" (under review).
+Codes of paper "Unified Conditional Image Generation for Visible-Infrared Person Re-Identification" (accepted by IEEE TIFS).
 
  <img src="/figs/motivation.png" width="560" height="420">
  
